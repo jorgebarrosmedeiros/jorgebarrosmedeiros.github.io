@@ -4,7 +4,7 @@
 with src_subscription as 
 (
 select * 
-from workshop.public.subscriptipn;
+from workshop.public.subscriptipn
 )
 
 select 
@@ -14,4 +14,4 @@ select
     sb.payment_term,
     sb.payment_method,
     sb.subscription_term
-from src_subscription as sb;
+from src_subscription as sb

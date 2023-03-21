@@ -4,7 +4,7 @@
 with src_user as 
 (
 select * 
-from workshop.public.user; 
+from workshop.public.user 
 )
 
 select 
@@ -15,4 +15,4 @@ select
     pu.employment,
     pu.credit_card,
     pu.subscription
-from src_user as pu;
+from src_user as pu

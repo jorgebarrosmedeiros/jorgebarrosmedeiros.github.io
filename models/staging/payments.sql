@@ -4,7 +4,7 @@
 with src_payments as 
 (
 select * 
-from workshop.public.payments; 
+from workshop.public.payments
 )
 
 select 
@@ -15,4 +15,4 @@ select
     ps.currency,
     ps.credit_card_type,
     ps.subscription_price
-from src_payments as ps;
+from src_payments as ps
