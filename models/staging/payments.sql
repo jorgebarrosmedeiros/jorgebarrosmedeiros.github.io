@@ -4,7 +4,7 @@
 with src_payments as 
 (
 select * 
-from workshop.public.payments 
+from workshop.public.payments; 
 )
 
 select 

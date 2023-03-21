@@ -4,7 +4,7 @@
 with src_subscription as 
 (
 select * 
-from workshop.public.subscriptipn
+from workshop.public.subscriptipn;
 )
 
 select 

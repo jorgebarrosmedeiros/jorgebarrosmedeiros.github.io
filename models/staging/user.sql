@@ -4,7 +4,7 @@
 with src_user as 
 (
 select * 
-from workshop.public.user 
+from workshop.public.user; 
 )
 
 select 
