@@ -1,3 +1,5 @@
+{{ config(materialized='table') }}
+
 with cleansed_user as 
 (
     select * from {{ ref('cleansed_user') }}
