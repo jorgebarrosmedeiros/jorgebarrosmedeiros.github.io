@@ -8,7 +8,7 @@ with cleansed_payments as (
 
 cleansed_subscriptions as (
 
-    select * from {{ ref('cleansed_subscriptions') }}
+    select * from {{ ref('cleansed_subscription') }}
 
 ),
     payments_per_plan_credit_card_type as (
