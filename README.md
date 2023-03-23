@@ -1,13 +1,7 @@
 Welcome to your new dbt project!
 
-<p align="center">
-  <a href="" rel="noopener">
-    
-    <img src="https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/edit/development/images/Captura de Tela 2023-03-23 às 07.24.53.png" alt="Project logo">
- </a>
-</p>
 
-#![alt text](./images/Captura de Tela 2023-03-23 às 07.24.53.png)
+![alt text](./images/Captura de Tela 2023-03-23 às 07.24.53.png)
 
 
 ### Getting Started
